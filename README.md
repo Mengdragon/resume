@@ -1,3 +1,4 @@
 # resume
-name:
-sllll
+name:MENG DRAGON
+HOBBY: TRAVEL
+SCHOOL: XI'AN FANYI UNIVERSITY
